@@ -1,9 +1,9 @@
-#Morei em uma republica durante a minha graduação e durante esse periodo fui responsável por fazer as diviões mensais das contas da casa
-#para os moradores. Em meu ultimo ano de graduação, quando tive os primeiros contatos com PYTHON, decidi fazer um programa que
-#leria essas contas, dividindo-as automaticamente. O projeto não está nada relacionado com a area de DATA SCIENCE, é um código bem 
-#rustico e um pouco confuso, mas foi o que consegui com o conhecimento que eu tinha e posto ele aqui com orgulho, porque o programa
-#funcionou perfeitramente e quebrou um galho - a epoca, por exemplo, eu não conhecia a possibilidade de se criar 
-#funções para otimizar rotinas de código.
+# Morei em uma republica durante a minha graduação e durante esse periodo fui responsável por fazer as diviões mensais das contas da casa
+# para os moradores. Em meu ultimo ano de graduação, quando tive os primeiros contatos com PYTHON, decidi fazer um programa que
+# leria essas contas, dividindo-as automaticamente. O projeto não está nada relacionado com a area de DATA SCIENCE, é um código bem 
+# rustico e um pouco confuso, mas foi o que consegui com o conhecimento que eu tinha e posto ele aqui com orgulho, porque o programa
+# funcionou perfeitramente e quebrou um galho, e claro, foi o meu primeiro projeto autonomo
+# a epoca, por exemplo, eu não conhecia a possibilidade de se criar funções para otimizar rotinas de código.
 
 print('########################### REPUBLICA AGREGADOS ####################################')
 print('==================== INTERNET =============================')
