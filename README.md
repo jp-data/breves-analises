@@ -25,7 +25,7 @@
 ## Projetos:
 Abaixo alguns projetos realizados até o momento - inclui anotações diversas:
 
-* **Leitor e divisor de contas de uma república no PyCharm:** https://bit.ly/3clwzST
-* **Tatamento do DATASET do titanic para encontrar a media de idade dos sobreviventes:** 
-* **Primeiro projeto de Machine Learning para prever preços de venda de imoveis em IOWA - EUA:** 
+* **Analisando dados brasileiros acerca do feminicídio:**
+* **Ideia de projeto:** 
+* **Ideia de projeto:** 
 * **Ideia de projeto:** 
