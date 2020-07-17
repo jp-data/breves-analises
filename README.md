@@ -23,9 +23,9 @@
 
 
 ## Projetos:
-Abaixo alguns projetos realizados até o momento - inclui anotações diversas:
+Abaixo alguns projetos realizados até o momento:
 
-* **Analisando dados brasileiros acerca do feminicídio: https://bit.ly/3jgEaWM
+* **Analisando dados brasileiros acerca do feminicídio:** https://bit.ly/3jgEaWM
 * **Ideia de projeto:** 
 * **Ideia de projeto:** 
 * **Ideia de projeto:** 
