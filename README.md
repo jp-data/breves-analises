@@ -25,7 +25,7 @@
 ## Projetos:
 Abaixo alguns projetos realizados até o momento - inclui anotações diversas:
 
-* **Analisando dados brasileiros acerca do feminicídio:**
+* **Analisando dados brasileiros acerca do feminicídio: Feminicidios_no_Brasil.ipynb
 * **Ideia de projeto:** 
 * **Ideia de projeto:** 
 * **Ideia de projeto:** 
