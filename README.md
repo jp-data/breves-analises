@@ -26,6 +26,6 @@
 Abaixo alguns projetos realizados até o momento:
 
 * **Analisando dados brasileiros acerca do feminicídio:** https://tinyurl.com/y3tgs5r4
-* **(Ainda em desenvolvimento) Previdência social - Analisando os dados de despesa do governo no setor:** https://tinyurl.com/y39jg7ga
+* **Previdência social - Uma análise do cenário fiscal brasileiro nos ultimos anos:** https://tinyurl.com/y39jg7ga
 * **Ideia de projeto:** 
 * **Ideia de projeto:** 
