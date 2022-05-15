@@ -1,8 +1,6 @@
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
-</p>
+
 
 # João Paulo
 <sub>*
@@ -13,8 +11,7 @@
   **Instituição:* Universidade Federal do Mato Grosso
   <sub>*
 
-**Experiência:* Python - Iniciante
-<sub>*
+
   
 
 
